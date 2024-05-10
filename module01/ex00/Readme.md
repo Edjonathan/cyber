@@ -26,3 +26,11 @@ Cenário Reais
 Como se previnir
 
 1) Realizar sanitização e validação dos inputs do template para evitar o envio de códigos maliciosos para o backend
+
+
+/nfs/homes/edjsanto/Downloads/serversidetemplateinjection.pdf
+
+ref:
+
+https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/
+https://github.com/payloadbox/ssti-payloads
